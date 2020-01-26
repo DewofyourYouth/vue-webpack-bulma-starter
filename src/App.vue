@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Hero></Hero>
+    <Hero title="The Best Title Ever!" subtitle="And a darn good subtitle"></Hero>
   </div>
 </template>
 

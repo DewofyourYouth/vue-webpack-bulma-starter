@@ -2,12 +2,8 @@
   <section class="hero is-primary">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title">
-          {{ title }}
-        </h1>
-        <h2 class="subtitle">
-          {{ subtitle }}
-        </h2>
+        <h1 class="title">{{ title }}</h1>
+        <h2 class="subtitle">{{ subtitle }}</h2>
       </div>
     </div>
   </section>
@@ -15,11 +11,9 @@
 
 <script>
 export default {
-  name: 'Header',
-  data: () => ({
-    title: 'The Best Title Ever',
-    subtitle: 'A decent subtitle'
-  }),
-  methods: {}
+  name: "Header",
+  data: () => ({}),
+  methods: {},
+  props: ["title", "subtitle"]
 };
 </script>
