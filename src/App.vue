@@ -5,11 +5,11 @@
 </template>
 
 <script>
-import Hero from './components/Hero.vue';
+import Hero from "./components/Hero.vue";
 export default {
-  name: 'App',
+  name: "App",
   data: () => ({
-    msg: 'Hi Mom!'
+    msg: "Hi Mom!"
   }),
   components: {
     Hero
