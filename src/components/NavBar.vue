@@ -5,7 +5,7 @@
     aria-label="main navigation"
   >
     <div class="navbar-brand">
-      <a class="navbar-item" href="https://bulma.io">
+      <a class="navbar-item" href="https://github.com/DewofyourYouth">
         <img src="https://dewofyouryouth.github.io/doyy.png" height="28" />
       </a>
 
