@@ -1,5 +1,5 @@
 <template>
-  <section class="hero is-primary">
+  <section class="hero is-dark is-medium is-bold has-text-centered">
     <div class="hero-body">
       <div class="container">
         <h1 class="title">{{ title }}</h1>
@@ -11,9 +11,9 @@
 
 <script>
 export default {
-  name: "Header",
+  name: 'Header',
   data: () => ({}),
   methods: {},
-  props: ["title", "subtitle"]
+  props: ['title', 'subtitle']
 };
 </script>
