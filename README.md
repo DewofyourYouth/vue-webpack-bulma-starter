@@ -1,6 +1,6 @@
 This is a template repo for starting projects using the Vuejs framework with Webpack and the Bulma CSS library
 
-To get started with template run `yarn install` and then `yarn dev`
+To get started with template run `yarn install` and then `yarn start`
 
 [Vuejs Docs](https://vuejs.org/)
 
