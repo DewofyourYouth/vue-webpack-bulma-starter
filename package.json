@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --open --hot",
+    "watch": "webpack --watch",
     "build": "webpack --mode production --progress --hide-modules"
   },
   "babel": {
